@@ -11,7 +11,7 @@ Teknologi yang Digunakan
 - Vuforia Engine
 - Image Target (marker buatan sendiri)
 
-
+Link Drive : https://drive.google.com/drive/folders/16NNxrLOVW3384M9tGz3FhDCnchCvIMMv?usp=sharing (file lebih 25mb tidak bisa up github)
 Link Youtube: https://youtu.be/iqOEHGktU5w
 
 Marker
